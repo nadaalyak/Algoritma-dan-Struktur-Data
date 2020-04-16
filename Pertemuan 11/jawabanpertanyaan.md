@@ -7,12 +7,19 @@
 3. 
 <img src = addbyvalue.png>
 
+main :
+
+<img src = mainaddbyvalue.png>
+
 output :
 
 <img src = outputaddbyvalue.png>
 
 4. 
 <img src = removevalue.png>
+
+main :
+
 <img src = mainremovevalue.png>
 
 output :
@@ -21,6 +28,9 @@ output :
 
 5. 
 <img src = linkedlist.png>
+
+main : 
+
 <img src = "main1.png">
 <img src = "main2.png">
 <img src = "main3.png">
