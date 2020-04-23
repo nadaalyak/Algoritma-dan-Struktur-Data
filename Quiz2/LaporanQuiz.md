@@ -26,6 +26,10 @@ class Main
 #### 2. FLOWCHART
 ##### Gambar
 
+<img src = "input.png">
+
+<img src = "read.png">
+
 <img src = "LinkList.png">
 
 <img src = "enque.png">
