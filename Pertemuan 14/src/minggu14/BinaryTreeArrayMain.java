@@ -7,7 +7,7 @@ package minggu14;
 
 /**
  *
- * @author Zhabiyan
+ * @author Nada Alya
  */
 public class BinaryTreeArrayMain {
 
